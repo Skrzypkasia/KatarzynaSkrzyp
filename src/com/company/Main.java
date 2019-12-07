@@ -8,7 +8,7 @@ public class Main {
         System.out.println("Suma wynosi:"+suma);
         mnozenie=a+b;
         System.out.println("mnożenie wynosi" +mnozenie);
-        
+
 
 
     }
